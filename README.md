@@ -1,14 +1,14 @@
 # Adisa5.md
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm [Kehinde Fatai Adisa]
 
 ## 🚀 About Me
 - 🔭 I’m currently working on: [Your Project]
-- 🌱 I’m currently learning: [Technology/Skill]
+- 🌱 I’m currently learning: [Cybersecurity]
 - 👯 I’m looking to collaborate on: [Open Source / Projects]
 - 🤔 I’m looking for help with: [Something you need help with]
 - 💬 Ask me about: [Your Skills]
-- 📫 How to reach me: [Email or Social Link]
-- ⚡ Fun fact: [Something interesting about you]
+- 📫 How to reach me: [kehindeabdulfatai92@gmail.com]
+- ⚡ Fun fact: [i like reading]
 
 ---
 
@@ -38,9 +38,9 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 Completed [Certification or Course]
+- 🥇 Completed [i have a sisco certification]
 - 🎯 Built [Cool Project]
-- 📚 Learning [New Tech]
+- 📚 Learning [Cybersecurity]
 
 ---
 
